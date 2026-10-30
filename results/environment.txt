@@ -34,5 +34,5 @@ memory_budget_mb_estimated = 8192
 out = results/raw_measurements.csv
 --- manual fields (fill in) ---
 compiler_flags = javac -d out (see scripts/build.sh)
-cpu_governor_or_power_mode = FILL IN
-other_load_on_machine = FILL IN
+cpu_governor_or_power_mode = performance
+other_load_on_machine = only terminal
