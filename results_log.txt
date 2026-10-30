@@ -1,0 +1,403 @@
+nohup: no se tendrá en cuenta la entrada
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+Environment written to results/environment.txt
+== Part A: dense optimisation ==
+  dense n=100 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,1.3582530269673832E7)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=100 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,1.3582530269673832E7)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=100 blocked_ikj(bs=32) done
+Raw measurements: results/raw_measurements.csv (sink=0,1.3582530269673832E7)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=100 blocked_ikj(bs=64) done
+Raw measurements: results/raw_measurements.csv (sink=0,1.3582530269673832E7)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=100 blocked_ikj(bs=128) done
+Raw measurements: results/raw_measurements.csv (sink=0,1.3582530269673832E7)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=200 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,1.0823779907628551E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=200 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,1.0823779907628551E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=200 blocked_ikj(bs=32) done
+Raw measurements: results/raw_measurements.csv (sink=0,1.0823779907628551E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=200 blocked_ikj(bs=64) done
+Raw measurements: results/raw_measurements.csv (sink=0,1.0823779907628551E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=200 blocked_ikj(bs=128) done
+Raw measurements: results/raw_measurements.csv (sink=0,1.0823779907628551E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=400 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,8.642742675385422E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=400 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,8.642742675385422E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=400 blocked_ikj(bs=32) done
+Raw measurements: results/raw_measurements.csv (sink=0,8.642742675385422E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=400 blocked_ikj(bs=64) done
+Raw measurements: results/raw_measurements.csv (sink=0,8.642742675385422E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=400 blocked_ikj(bs=128) done
+Raw measurements: results/raw_measurements.csv (sink=0,8.642742675385422E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=800 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,6.911933751702708E9)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=800 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,6.911933751702708E9)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=800 blocked_ikj(bs=32) done
+Raw measurements: results/raw_measurements.csv (sink=0,6.911933751702708E9)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=800 blocked_ikj(bs=64) done
+Raw measurements: results/raw_measurements.csv (sink=0,6.911933751702708E9)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=800 blocked_ikj(bs=128) done
+Raw measurements: results/raw_measurements.csv (sink=0,6.911933751702708E9)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=1200 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,2.3329664423449707E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=1200 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,2.3329664423449707E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=1200 blocked_ikj(bs=32) done
+Raw measurements: results/raw_measurements.csv (sink=0,2.3329664423449707E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=1200 blocked_ikj(bs=64) done
+Raw measurements: results/raw_measurements.csv (sink=0,2.3329664423449707E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=1200 blocked_ikj(bs=128) done
+Raw measurements: results/raw_measurements.csv (sink=0,2.3329664423449707E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=1600 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,5.5299887148907425E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=1600 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,5.5299887148907425E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=1600 blocked_ikj(bs=32) done
+Raw measurements: results/raw_measurements.csv (sink=0,5.5299887148907425E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=1600 blocked_ikj(bs=64) done
+Raw measurements: results/raw_measurements.csv (sink=0,5.5299887148907425E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=1600 blocked_ikj(bs=128) done
+Raw measurements: results/raw_measurements.csv (sink=0,5.5299887148907425E10)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=2000 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,1.0801489870576564E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=2000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,1.0801489870576564E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=2000 blocked_ikj(bs=32) done
+Raw measurements: results/raw_measurements.csv (sink=0,1.0801489870576564E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=2000 blocked_ikj(bs=64) done
+Raw measurements: results/raw_measurements.csv (sink=0,1.0801489870576564E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=2000 blocked_ikj(bs=128) done
+Raw measurements: results/raw_measurements.csv (sink=0,1.0801489870576564E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=2500 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,2.1097858842724747E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=2500 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,2.1097858842724747E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=2500 blocked_ikj(bs=32) done
+Raw measurements: results/raw_measurements.csv (sink=0,2.1097858842724747E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=2500 blocked_ikj(bs=64) done
+Raw measurements: results/raw_measurements.csv (sink=0,2.1097858842724747E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=2500 blocked_ikj(bs=128) done
+Raw measurements: results/raw_measurements.csv (sink=0,2.1097858842724747E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=3000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,3.645493847392486E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=3000 blocked_ikj(bs=32) done
+Raw measurements: results/raw_measurements.csv (sink=0,3.645493847392486E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=3000 blocked_ikj(bs=64) done
+Raw measurements: results/raw_measurements.csv (sink=0,3.645493847392486E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=3000 blocked_ikj(bs=128) done
+Raw measurements: results/raw_measurements.csv (sink=0,3.645493847392486E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=4000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,8.640801144132994E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=4000 blocked_ikj(bs=32) done
+Raw measurements: results/raw_measurements.csv (sink=0,8.640801144132994E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=4000 blocked_ikj(bs=64) done
+Raw measurements: results/raw_measurements.csv (sink=0,8.640801144132994E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part A: dense optimisation ==
+  dense n=4000 blocked_ikj(bs=128) done
+Raw measurements: results/raw_measurements.csv (sink=0,8.640801144132994E11)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  sparse n=1000 sparsity=90.0% csr_gustavson done
+Raw measurements: results/raw_measurements.csv (sink=1398712,0.0)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=1000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,1.3475545482229617E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=1000 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,1.3475545482229617E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  sparse n=1000 sparsity=95.0% csr_gustavson done
+Raw measurements: results/raw_measurements.csv (sink=698166,0.0)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=1000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,3.358111951680173E7)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=1000 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,3.358111951680173E7)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  sparse n=1000 sparsity=99.0% csr_gustavson done
+Raw measurements: results/raw_measurements.csv (sink=138880,0.0)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=1000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,1328182.3145682125)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=1000 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,1328182.3145682125)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  sparse n=1000 sparsity=99.9% csr_gustavson done
+Raw measurements: results/raw_measurements.csv (sink=13391,0.0)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=1000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,12764.664255799233)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=1000 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,12764.664255799233)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  sparse n=2000 sparsity=90.0% csr_gustavson done
+Raw measurements: results/raw_measurements.csv (sink=5591089,0.0)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=2000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,1.0765316931469104E9)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=2000 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,1.0765316931469104E9)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  sparse n=2000 sparsity=95.0% csr_gustavson done
+Raw measurements: results/raw_measurements.csv (sink=2795772,0.0)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=2000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,2.693740484867321E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=2000 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,2.693740484867321E8)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  sparse n=2000 sparsity=99.0% csr_gustavson done
+Raw measurements: results/raw_measurements.csv (sink=556227,0.0)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=2000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,1.062532702314456E7)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=2000 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,1.062532702314456E7)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  sparse n=2000 sparsity=99.9% csr_gustavson done
+Raw measurements: results/raw_measurements.csv (sink=55531,0.0)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=2000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,106079.75597906593)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=2000 ijk_baseline done
+Raw measurements: results/raw_measurements.csv (sink=0,106079.75597906593)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  sparse n=4000 sparsity=90.0% csr_gustavson done
+Raw measurements: results/raw_measurements.csv (sink=22381520,0.0)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=4000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,8.627524915715416E9)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  sparse n=4000 sparsity=95.0% csr_gustavson done
+Raw measurements: results/raw_measurements.csv (sink=11185349,0.0)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=4000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,2.1544079886278996E9)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  sparse n=4000 sparsity=99.0% csr_gustavson done
+Raw measurements: results/raw_measurements.csv (sink=2236262,0.0)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=4000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,8.618923051446083E7)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  sparse n=4000 sparsity=99.9% csr_gustavson done
+Raw measurements: results/raw_measurements.csv (sink=223538,0.0)
+Running self-tests (tolerance: abs 1.0E-12, rel 1.0E-9)...
+Self-tests: 266/266 passed.
+== Part B: sparse CSR vs dense ==
+  dense n=4000 ikj_reorder done
+Raw measurements: results/raw_measurements.csv (sink=0,860052.4563162088)
+Done. Now run: python3 scripts/analyze.py results

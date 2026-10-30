@@ -1,0 +1,38 @@
+timestamp_utc = 2026-10-29T22:07:16.191513018Z
+java.version = 21.0.12.1
+java.vm.name = OpenJDK 64-Bit Server VM
+java.vendor = Arch Linux
+jvm_input_arguments = [-Xms10g, -Xmx10g, -XX:+UseParallelGC]
+os.name = Linux
+os.version = 7.3.0-4-cachyos
+os.arch = amd64
+logical_processors (availableProcessors) = 12
+cpu_model = Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+physical_cores_per_socket = 6
+total_ram_bytes = 16569368576
+jvm_max_heap_bytes = 10290200576
+idle_live_heap_bytes_at_start = 1374200
+numeric_type = double (64-bit)
+timer = System.nanoTime (monotonic)
+timed_region = multiplication kernel only; inputs generated outside; output array allocated outside; output initialisation (zero fill) INCLUDED in kernel; CSR conversion reported as its own phase
+tolerance = abs 1.0E-12, rel 1.0E-9
+--- run configuration ---
+mode = dense
+dense_sizes = [100]
+dense_methods = [ijk_baseline]
+block_sizes = [64]
+sparse_sizes = [500, 1000, 2000]
+sparsity_pct = [90.0, 95.0, 99.0, 99.9]
+sparse_dense_comparators = [ijk_baseline, ikj_reorder]
+run_csr_kernel = true
+measured_repetitions = 5
+warmup_runs = 2 (recorded in CSV with phase=warmup, excluded from summaries)
+seed_A = 42, seed_B = 43 (java.util.Random)
+value_range_nonzeros = [1, 2)
+max_seconds_per_multiplication = 240.0
+memory_budget_mb_estimated = 8192
+out = results/raw_measurements.csv
+--- manual fields (fill in) ---
+compiler_flags = javac -d out (see scripts/build.sh)
+cpu_governor_or_power_mode = FILL IN
+other_load_on_machine = FILL IN
